@@ -1,0 +1,6 @@
+{
+  "name": "cfip-check",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "./dist"
+}
